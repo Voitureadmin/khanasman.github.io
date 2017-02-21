@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
@@ -428,7 +428,7 @@ h6,
 #menu-0 .navbar-caption {
   color: #ffffff;
   font-size: 23px;
-  font-family: 'PT Serif', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-0 .navbar-toggler {
   color: #000000;
@@ -511,7 +511,7 @@ h6,
 #menu-l .navbar-caption {
   color: #ffffff;
   font-size: 23px;
-  font-family: 'PT Serif', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-l .navbar-toggler {
   color: #000000;
@@ -590,7 +590,7 @@ h6,
 #menu-12 .navbar-caption {
   color: #ffffff;
   font-size: 23px;
-  font-family: 'PT Serif', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-12 .navbar-toggler {
   color: #000000;
@@ -673,7 +673,7 @@ h6,
 #menu-13 .navbar-caption {
   color: #ffffff;
   font-size: 23px;
-  font-family: 'PT Serif', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-13 .navbar-toggler {
   color: #000000;
@@ -758,7 +758,7 @@ h6,
 #menu-b .navbar-caption {
   color: #ffffff;
   font-size: 23px;
-  font-family: 'PT Serif', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-b .navbar-toggler {
   color: #000000;
